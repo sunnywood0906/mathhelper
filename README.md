@@ -1,1 +1,21 @@
-# mathhelper
+<h3>歡迎來到我的Github :tada::tada:
+<P><h2>【以下是多媒體教材設計與製作課專題】</P>
+<p><h3>MathHelper-數學解題小幫手</p>
+<ul style='list-style-type'>
+     <li><h4>名稱：MathHelper-數學解題小幫手</h4></li>
+     <li><h4>功能介紹：
+       <ul style='list-style-type'>
+        <li><h5>1.手機操作方便又即時。</h5></li>
+       <li><h5>2.上傳題目讓AI分解成步驟更好學習。</h5></li>
+       <li><h5>3.支援多種上傳模式不受限。</h5></li>
+       <li><h5>4.可收藏詢問過的題目複習更加分。</h5></li>
+       </ul>    
+     </h4></li>
+     <li><h4>流程圖：</h4></li>
+     <img src="https://raw.githubusercontent.com/sunnywood0906/data-structure/main/recipe_suggester.png" alt="Recipe Suggester" width="500">
+     <li><h4>進度日誌</h4></li>
+      <ul style='list-style-type'>
+          <li><h5>截至2025/11/03已完成：<br>1.大部分介面設計(使用Figma繪製)。<br>2.按鈕互動頁面至上傳頁。<br>3.可讓使用者藉由手機相簿上傳相片。</h5></li>
+      </ul>
+     
+</ul>
