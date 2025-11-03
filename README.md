@@ -12,7 +12,10 @@
        </ul>    
      </h4></li>
      <li><h4>流程圖：</h4></li>
-     <img src="https://raw.githubusercontent.com/sunnywood0906/data-structure/main/recipe_suggester.png" alt="Recipe Suggester" width="500">
+     <li><h5>第一部分：</h5></li>
+     <img src="https://github.com/sunnywood0906/mathhelper/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-11-03%20230221.png" alt="Recipe Suggester" width="500">
+     <li><h5>第二部分：</h5></li>
+     <img src="https://github.com/sunnywood0906/mathhelper/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-11-03%20230233.png" alt="Recipe Suggester" width="500">
      <li><h4>進度日誌</h4></li>
       <ul style='list-style-type'>
           <li><h5>截至2025/11/03已完成：<br>1.大部分介面設計(使用Figma繪製)。<br>2.按鈕互動頁面至上傳頁。<br>3.可讓使用者藉由手機相簿上傳相片。</h5></li>
