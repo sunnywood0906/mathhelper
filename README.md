@@ -12,7 +12,7 @@
        <li><h5>5.AI針對回答提供改正建議。</h5></li>
        </ul>    
      </h4></li>
-     <li><h4>實際操作畫面：https://github.com/sunnywood0906/mathhelper/blob/main/Screen_Recording_20251209_111341_Expo_Go.mp4</h4></li>
+     <li><h4>實際操作畫面：https://github.com/sunnywood0906/mathhelper/blob/main/Screen_Recording_20251209_111341_Expo%20Go.mp4</h4></li>
      <li><h4>流程圖：</h4></li>
      <li><h5>第一部分：</h5></li>
      <img src="https://github.com/sunnywood0906/mathhelper/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-11-03%20230221.png" alt="part 1" width="500">
